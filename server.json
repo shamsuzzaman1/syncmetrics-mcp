@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "io.github.shamsuzzaman1/syncmetrics",
-  "description": "Ask Claude anything about your ads — Meta, Google, TikTok, LinkedIn, GA4 & Shopify. 106 tools, read-only by default, flat pricing, no AI credits.",
+  "description": "Ask Claude about your ads: Meta, Google, TikTok, LinkedIn, GA4 & Shopify. No AI credits.",
   "version": "1.0.0",
   "websiteUrl": "https://syncmetrics.io",
   "repository": {
